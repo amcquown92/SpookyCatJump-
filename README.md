@@ -4,6 +4,7 @@ A Scratch game where players click on pixel kitties to make them jump on a see-s
 Collect falling objects to earn points — inspired by Neopets’ **Hasee Bounce**.  
 
 ## How to Play
+[Play here!](https://scratch.mit.edu/projects/746995175)
 - Click on a kitty to launch it from the see-saw.
 - Time your clicks to bounce kitties back up.
 - Collect objects to score points.
